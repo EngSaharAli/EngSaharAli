@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EngSaharAli
+- 👋 Hi, I’m @EngSaharAli, communication engineer.
 - 👀 I’m interested in studying data analytics.
 - 🌱 I’m currently learning google data analytics certificate
 - 💞️ I’m looking to collaborate on Data analysis
